@@ -65,10 +65,10 @@ How to [contribute](/CONTRIBUTING.MD) to this open source library
 
 ## License
 
-Copyright © 2010-2020 [Imaginary Cloud](https://www.imaginarycloud.com). This library is licensed under the MIT [license](/LICENCE).
+Copyright © 2010-2020 [Imaginary Cloud](https://www.imaginarycloud.com/?utm_source=github). This library is licensed under the MIT [license](/LICENCE).
 
 ## About Imaginary Cloud
 
-![Imaginary Cloud](https://s3.eu-central-1.amazonaws.com/imaginary-images/Logo_IC_readme.svg)
+[![Imaginary Cloud](https://s3.eu-central-1.amazonaws.com/imaginary-images/Logo_IC_readme.svg)](https://www.imaginarycloud.com/?utm_source=github)
 
-At Imaginary Cloud, we build world-class web & mobile apps. Our Front-end developers and UI/UX designers are ready to create or scale your digital product. Take a look at our [website](https://www.imaginarycloud.com/) and [get in touch!](https://www.imaginarycloud.com/contacts) We'll take it from there.
+At Imaginary Cloud, we build world-class web & mobile apps. Our Front-end developers and UI/UX designers are ready to create or scale your digital product. Take a look at our [website](https://www.imaginarycloud.com/?utm_source=github) and [get in touch!](https://www.imaginarycloud.com/contacts/?utm_source=github) We'll take it from there.
