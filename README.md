@@ -9,7 +9,10 @@ For more information you can check [ESLint](https://eslint.org/) and [Prettier](
 This package integrates the Prettier rules with ESLint using our configuration. You can check it at [@imaginary-cloud/prettier-configuration](https://github.com/imaginary-cloud/prettier-config)
 
 ## How to install
-You need ESLint and Prettier installed as development dependencies on your project. You can install them by using npm:
+You need ESLint and Prettier installed as development dependencies on your project. You can install them by using **npm** or **yarn**.
+
+#### NPM
+
 ```
 npm install --save-dev eslint prettier
 ```
@@ -30,6 +33,22 @@ If *npm < v5*, Linux/OSX users can run:
   export PKG=@imaginary-cloud/eslint-config-react;
   npm info "$PKG@latest" peerDependencies --json | command sed 's/[\{\},]//g ; s/: /@/g' | xargs npm install --save-dev "$PKG@latest"
 )
+```
+
+#### YARN
+
+```
+yarn add eslint prettier -D
+```
+
+Install the peer dependencies tool, by running:
+```
+yarn global add install-peerdeps
+```
+
+and after that run the following command to install the project's config:
+```
+install-peerdeps @imaginary-cloud/eslint-config-react
 ```
 
 ## How to use
