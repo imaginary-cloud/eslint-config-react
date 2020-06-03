@@ -1,6 +1,6 @@
 {
   "name": "@imaginary-cloud/eslint-config-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint React configuration for JS projects based on airbnb and Prettier configs",
   "main": "index.js",
   "scripts": {
